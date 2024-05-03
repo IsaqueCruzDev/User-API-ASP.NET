@@ -1,0 +1,6 @@
+@BukiApi_HostAddress = http://localhost:5243
+
+GET {{BukiApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
